@@ -1,6 +1,7 @@
 #Load required packages
 library(dplyr)
 library(tidyr)
+library(reshape2)
 
 data <- "getdata_UCI_HAR_Dataset.zip"
 
